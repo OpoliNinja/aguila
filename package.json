@@ -1,0 +1,17 @@
+{
+  "name": "aguila",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpoliNinja/aguila.git"
+  },
+  "keywords": [],
+  "author": "Jairo Rauda <jairo@opoli.ninja>",
+  "license": "MIT",
+  "homepage": "https://github.com/OpoliNinja/aguila.git#readme"
+}
